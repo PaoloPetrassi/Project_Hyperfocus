@@ -1,0 +1,47 @@
+
+.p-journal-custom{
+
+    font-size: 20px;
+}
+
+.journal-padding-custom{
+
+    padding-top: 7.5% !important;
+
+}
+
+.title-journal-custom{
+
+    font-size: 125px;
+
+}
+
+.prima-immagine-custom{
+
+    width: 600px;
+
+    height: 800px;
+    
+
+}
+
+.seconda-immagine-custom{
+
+    width: 570px;
+    height: 800px;
+    
+
+}
+
+
+.div-custom p{
+
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: large;
+}
+
+.section1custom{
+
+    padding-top: 8%;
+}
